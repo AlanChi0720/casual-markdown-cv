@@ -1,33 +1,42 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="photo_HMC.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  email: hc3331@nyu.edu <br> mobile: +1 (530)953-1140 <br> linkedin: http://www.linkedin.com/in/hmchi <br> github: https://github.com/AlanChi0720
 </span>
 
 # Casualwriter  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Biotechnology master’s graduate with 4+ years of molecular biology and bioengineering lab experience. 
+* Skilled in stem cell culture and diverse bio-assay experiments manipulation. 
+* Multitasking abilities and adept at efficient time management, resulting in reducing project time by 33%.
+* Passionate about utilizing Python for data analysis and applying these skills to real-world scenarios.
+* Experienced lab manager seeking exciting opportunities in the biotech and pharmaceutical industry.
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Rutgers University (Lab Manager, 2023/11 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Performed large-scale DNA sequence alignment of 100GB dataset on Rutgers University's Amarel High-Performance Computing cluster, leveraging parallel processing capabilities and optimized bioinformatics software environment.
+* Set up lab space for new start-up, including ordering equipment and supplies, organizing inventory system to track materials, and developing protocols and workflows to ensure smooth lab operations.
+* Analyze large genomic datasets from mouse models to identify marker genes and pathways involved in motor neurons development. Used statistical programs such as R/Python to process raw bulk RNA sequencing data.
+* Manage mouse colony, handling breeding, weaning, genotyping to support ongoing research studies. Performed DNA extraction and PCR-based genotyping.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Memorial Sloan Kettering Cancer Center (Senior Research Tech, 2023/05 - 2023/09) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Successfully managed a mouse colony of over 150 cages, conducted genotyping experiments with 40 to 80 samples with 10 different types of genes on a weekly basis.
+* Effectively cultivated trust among cross-functional departments and other lab teams, result in a substantial increase in cooperation rates and a 50% reduction in waiting times.
+* Executed job responsibilities in strict adherence to Good Laboratory Practice (GLP) standards, holding a valid certification in GLP compliance.
+* Swiftly assumed responsibility upon the departure of the previous senior tech, and efficiently mastered the Laboratory Information Management System (LIMS) to ensure seamless maintenance of lab operations.
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+#### New York University, Grossman School of Medicine (Research Assistant, 2022/05 - 2023/05)
+
+* Conducted image analysis and quantification using Tracker and EthoVision software to assess the effects of Vincristine on larval zebrafish lateral-line and other physiological responses.
+* Boosted experimental efficiency by 25% through the implementation of meticulous protocols and comprehensive documentation of data for newly designed experiments.
+* Proficiently synthesize research findings into comprehensive reports and craft compelling presentations to effectively communicate the research outcomes during oral presentations.
+
 
 ## Projects: 
 
