@@ -1,15 +1,15 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="photo_HMC.jpg" />
 
 <span style="float:right;padding:6px"> 
-  email: hc3331@nyu.edu <br> mobile: +1 (530)953-1140 <br> linkedin: http://www.linkedin.com/in/hmchi <br> github: https://github.com/AlanChi0720
+  email: hc3331@nyu.edu <br> mobile: +1 (530)953-1140 <br> linkedin: http://www.linkedin.com/in/hmchi <br>[github](https://github.com/AlanChi0720)
 </span>
 
 # Casualwriter  
 
 ## Executive Summary
 
-* Biotechnology master’s graduate with 4+ years of molecular biology and bioengineering lab experience. 
-* Skilled in stem cell culture and diverse bio-assay experiments manipulation. 
+* Biotechnology master’s graduate with 4+ years of molecular biology and bioengineering lab experience.
+* Skilled in stem cell culture and diverse bio-assay experiments manipulation.
 * Multitasking abilities and adept at efficient time management, resulting in reducing project time by 33%.
 * Passionate about utilizing Python for data analysis and applying these skills to real-world scenarios.
 * Experienced lab manager seeking exciting opportunities in the biotech and pharmaceutical industry.
