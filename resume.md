@@ -8,7 +8,7 @@ geometry:
 pagestyle: empty
 ...
 
-<img style="float:right;border-radius:50%;width:100px;padding:6px" src="photo_HMC.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="photo_HMC.jpg" />
 
 # Hsuan-Ming Chi
 

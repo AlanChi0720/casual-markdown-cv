@@ -28,7 +28,9 @@ Sorry for my poor UI design, if still not good enough, please fork this repo and
 ## Usage
 
 just fork [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a resume template to revise.
-then check html layout by https://raw.githack.com/YOUR-REPO-NAME/casual-markdown-cv/main/resume.html
+then check html layout by https://raw.githack.com/AlanChi0720/casual-markdown-cv/main/resume.html
+
+https://raw.githack.com/AlanChi0720/casual-markdown-cv/main/resume-web.html
 
 by the way, this template basically use markdown as web page, which not limit for resume purpose. for example,
 
