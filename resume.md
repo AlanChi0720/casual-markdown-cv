@@ -31,14 +31,6 @@ Email: hc3331@nyu.edu | Mobile: +1 (530)953-1140 | [LinkedIn](http://www.linkedi
 * Analyze large genomic datasets from mouse models to identify marker genes and pathways involved in motor neurons development. Used statistical programs such as R/Python to process raw bulk RNA sequencing data.
 * Manage mouse colony, handling breeding, weaning, genotyping to support ongoing research studies. Performed DNA extraction and PCR-based genotyping.
 
-#### Memorial Sloan Kettering Cancer Center (Senior Research Tech, 2023/05 - 2023/09) 
-
-* Successfully managed a mouse colony of over 150 cages, conducted genotyping experiments with 40 to 80 samples with 10 different types of genes on a weekly basis.
-* Effectively cultivated trust among cross-functional departments and other lab teams, result in a substantial increase in cooperation rates and a 50% reduction in waiting times.
-* Executed job responsibilities in strict adherence to Good Laboratory Practice (GLP) standards, holding a valid certification in GLP compliance.
-* Swiftly assumed responsibility upon the departure of the previous senior tech, and efficiently mastered the Laboratory Information Management System (LIMS) to ensure seamless maintenance of lab operations.
-
-
 #### New York University, Grossman School of Medicine (Research Assistant, 2022/05 - 2023/05)
 
 * Conducted image analysis and quantification using Tracker and EthoVision software to assess the effects of Vincristine on larval zebrafish lateral-line and other physiological responses.
@@ -70,8 +62,8 @@ Email: hc3331@nyu.edu | Mobile: +1 (530)953-1140 | [LinkedIn](http://www.linkedi
 
 **Software**: Python, MATLAB, R language, Tableau, Integrative Genomics Viewer (IGV), ICM-Pro, SQL, MongoDB, Pandas, NumPy, Git, GitHub, Microsoft Office (Excel, PowerPoint, Word)
 
-**Laboratory**: PCR, qPCR, DNA/RNA/Protein purification, Transformation, Transduction, IP Injection, ELISA, Next-generation sequencing (NGS), Immunofluorescence staining, Chromatography, Protein engineering, Flow cytometry  
+**Laboratory**: PCR/qPCR, RNA FISH, DNA/RNA purification, Transformation, Transduction, IP/OR Injection, ELISA, Next-generation sequencing (NGS), Immunofluorescence staining, Chromatography, Protein engineering, Flow cytometry  
 
 ## Interests
 
-Snowboarding, Basketball, Baseball, Boy Scouts
+Snowboarding, Pickleball, Basketball, Baseball, Boy Scouts
